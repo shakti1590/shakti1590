@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development(Back-End)**
 
-- 🌱 I’m currently learning **Django framework & competitive Language**
+- 🌱 I’m currently learning **competitive Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shakti1590](https://github.com/shakti1590)
 
