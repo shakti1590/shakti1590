@@ -8,7 +8,7 @@
 I'm a passionate developer who loves coding, open-source, and sharing knowledge. I'm proficient in multiple programming languages and frameworks and enjoy working on challenging projects that push my limits.
 
 - 🔭 I’m currently working on: DevOps Tech Stack
-- 🌱 I’m currently learning: DevOps
+- 🌱 I’m currently learning: Monitoring Tools 
 - 👯 I’m looking to collaborate on: Freelancing Projects
 - 💬 Ask me about: MERN, DevOps and Cloud
 - 📫 How to reach me: [shakti.devops12@gmail.com](mailto:shakti.devops12@gmail.com)
