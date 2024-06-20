@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Shakti! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/shakti1590?label=Follow&style=social)](https://github.com/shakti1590)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
@@ -7,11 +7,11 @@
 
 I'm a passionate developer who loves coding, open-source, and sharing knowledge. I'm proficient in multiple programming languages and frameworks and enjoy working on challenging projects that push my limits.
 
-- 🔭 I’m currently working on [Your Project](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning [Technology/Framework]
-- 👯 I’m looking to collaborate on [Your Interest]
+- 🔭 I’m currently working on DevOps Tech Stack
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on Freelancing Projects
 - 🤔 I’m looking for help with [Your Request]
-- 💬 Ask me about [Your Expertise]
+- 💬 Ask me about MERN, DevOps and Cloud
 - 📫 How to reach me: [shakti.devops12@gmail.com](mailto:shakti.devops12@gmail.com)
 - ⚡ Fun fact: [Your Fun Fact]
 
@@ -51,9 +51,8 @@ Here are a few projects I've worked on recently:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/shakti12)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/shakti12)
+- Personal Website: [Portfolio](https://shaktiportfolio-shakti1590s-projects.vercel.app/)
 
 ## 🌟 Support Me
 
