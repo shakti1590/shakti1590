@@ -1,26 +1,64 @@
-<h1 align="center">Hello there  I'm Shakti Singh</h1>
-<h3 align="center">A passionate Web developer</h3>
+# Hi there, I'm [Your Name]! 👋
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![GitHub followers](https://img.shields.io/github/followers/shakti1590?label=Follow&style=social)](https://github.com/shakti1590)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
 
-- 🔭 I’m currently working on **Web Development(Back-End)**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **competitive Language**
+I'm a passionate developer who loves coding, open-source, and sharing knowledge. I'm proficient in multiple programming languages and frameworks and enjoy working on challenging projects that push my limits.
 
-- 👨‍💻 All of my projects are available at [https://github.com/shakti1590](https://github.com/shakti1590)
+- 🔭 I’m currently working on [Your Project](https://github.com/yourusername/yourproject)
+- 🌱 I’m currently learning [Technology/Framework]
+- 👯 I’m looking to collaborate on [Your Interest]
+- 🤔 I’m looking for help with [Your Request]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [shakti.devops12@gmail.com](mailto:shakti.devops12@gmail.com)
+- ⚡ Fun fact: [Your Fun Fact]
 
-- 📫 How to reach me **ssingh12102002@gmail.com**
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shakti12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakti12" height="30" width="40" /></a>
-<a href="https://kaggle.com/shakti0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shakti0812" height="30" width="40" /></a>
-<a href="https://instagram.com/shakti_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakti_12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iamshaktisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamshaktisingh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shakti12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shakti12" height="30" width="40" /></a>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakti1590&show_icons=true&locale=en&layout=compact" alt="shakti1590" /></p>
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakti1590&show_icons=true&theme=radical)](https://github.com/shakti1590)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakti1590&layout=compact&theme=radical)](https://github.com/shakti1590)
+
+## 📈 Total Contributions
+
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shakti1590&theme=radical)](https://github.com/shakti1590)
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=shakti1590&color=brightgreen)
+
+## 🚀 Top Projects
+
+Here are a few projects I've worked on recently:
+
+1. [Project Name](https://github.com/yourusername/project1): A brief description of what this project does.
+2. [Project Name](https://github.com/yourusername/project2): A brief description of what this project does.
+3. [Project Name](https://github.com/yourusername/project3): A brief description of what this project does.
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/shakti12)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+
+## 🌟 Support Me
+
+If you like my work and would like to support me, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-333333?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
+
+Thank you for visiting my profile! Have a great day! 😊
